@@ -22,7 +22,7 @@ In this game, a forest-green hexagon rotates slowly while an earthy-orange ball 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Bouncing-ball.git
+   git clone https://github.com/ZamoRzgar/Bouncing-ball.git
    cd ball-bouncing-hexagon
    ```
 
@@ -57,8 +57,8 @@ The main game file `dynamic_hexagon.py` contains all logic, physics, and renderi
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
-*The ball bouncing inside the pulsing, rotating hexagon with a trail effect*
+
+
 
 ## Customization
 

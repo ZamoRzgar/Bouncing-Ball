@@ -55,9 +55,6 @@ The main game file `dynamic_hexagon.py` contains all logic, physics, and renderi
 - Hexagon pulsing and rotation
 - Ball trail effect using deque
 
-## Screenshot
-
-
 
 
 ## Customization

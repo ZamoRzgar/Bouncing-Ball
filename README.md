@@ -22,7 +22,7 @@ In this game, a forest-green hexagon rotates slowly while an earthy-orange ball 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ball-bouncing-hexagon.git
+   git clone https://github.com/yourusername/Bouncing-ball.git
    cd ball-bouncing-hexagon
    ```
 

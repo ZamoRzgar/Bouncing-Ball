@@ -23,7 +23,7 @@ In this game, a forest-green hexagon rotates slowly while an earthy-orange ball 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ZamoRzgar/Bouncing-ball.git
-   cd ball-bouncing-hexagon
+   cd Bouncing-ball
    ```
 
 2. **Install Pygame**:
@@ -33,7 +33,7 @@ In this game, a forest-green hexagon rotates slowly while an earthy-orange ball 
 
 3. **Run the Game**:
    ```bash
-   python dynamic_hexagon.py
+   python bouncing.py
    ```
 
 ## How to Play
@@ -48,7 +48,7 @@ No user input is required; the simulation runs autonomously.
 
 ## Code Structure
 
-The main game file `dynamic_hexagon.py` contains all logic, physics, and rendering.
+The main game file `bouncing.py` contains all logic, physics, and rendering.
 
 ### Key Components:
 - Collision detection with line intersection and reflection
@@ -59,7 +59,7 @@ The main game file `dynamic_hexagon.py` contains all logic, physics, and renderi
 
 ## Customization
 
-Feel free to tweak the following variables in `dynamic_hexagon.py`:
+Feel free to tweak the following variables in `bouncing.py`:
 - `rotation_speed`: Adjust hexagon rotation speed (default: 0.5)
 - `gravity`: Change the strength of gravity (default: 0.3)
 - `bounce_factor`: Modify elasticity (0 to 1, default: 0.999)
